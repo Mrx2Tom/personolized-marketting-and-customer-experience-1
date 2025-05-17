@@ -1,0 +1,6 @@
+Hello {{name}},
+
+We have an exciting offer just for you in the {{segment}} segment!
+
+Best regards,
+Marketing Team

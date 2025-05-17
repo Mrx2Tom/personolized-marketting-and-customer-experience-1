@@ -1,0 +1,201 @@
+user_id,name,email,age,location,preferred_category,purchase_count,avg_spent,last_purchase_days_ago
+8db2ba81-52fb-49fe-b57d-1289c0216526,Heather,igarza@example.org,42,Roseport,Health,20,992.76,352
+8ca488bd-b80c-4459-95ed-229bdfec5aa9,April,adamescobar@example.org,63,Richardport,Travel,3,511.72,139
+3a811b51-facd-4cdf-bd50-3e7a79aa88cb,Cameron,burkejulia@example.net,32,Lake Lance,Gaming,1,406.18,155
+b8f90e80-ae41-462a-ab6e-93074a2469c1,Nicole,porterdillon@example.com,36,Port Kevin,Travel,22,481.8,159
+81a6d4d2-bc7a-4948-9d23-e94313239729,Larry,isanchez@example.com,45,North Michael,Tech,14,600.78,269
+fa6a5ca5-c218-47bb-9f86-1639f413976b,Kyle,vedwards@example.org,69,Lake Lance,Fashion,2,645.93,321
+f99ebe9b-1e8f-4d6f-9ee8-036d588d63ad,James,hgonzalez@example.net,26,West Johnville,Gaming,11,32.41,143
+22615089-4cd6-46d7-b2a4-8aa370a405fb,Ian,barnesfrank@example.org,40,East Carolyn,Travel,0,208.71,318
+c0b1796c-7b0c-469c-86b8-7cd3b2f5df8a,Rachel,mitchellmartin@example.com,21,South Amandaberg,Gaming,0,968.55,361
+14dece8c-c339-4e2f-90b2-c416ddbfb30e,Crystal,lfisher@example.net,69,Jasminville,Travel,15,805.47,267
+20151d8e-748a-4c1b-9e96-d159ae039b84,Jon,vanessawilliams@example.org,42,Christophertown,Travel,22,230.2,250
+738d1a50-d017-4462-bc78-195811b679d0,John,pmiller@example.org,41,Woodshaven,Gaming,11,432.33,9
+80663884-aef0-458b-ab7e-9b98cff96689,Jonathan,charles87@example.net,57,Dixonport,Fashion,19,670.99,79
+5782c117-2f51-4014-8e0e-c7fd67e870c5,Angela,matthew28@example.com,68,Michellefort,Tech,8,252.13,20
+3eb627d8-34c9-484a-bb38-e95587a60cb1,Brian,rallen@example.net,55,Kimberlyfurt,Gaming,2,736.47,177
+5026869d-cda3-42ab-9007-9016adba42b5,Dustin,jason42@example.net,40,Lake Amandaport,Health,4,307.4,222
+1c44dad6-a54e-415f-adf0-55904cd14ca2,Roger,linda54@example.com,43,Lake Anthony,Travel,7,767.29,127
+eff22421-6691-436e-84df-b31322628b6c,Susan,maryhart@example.com,42,Lake Brandon,Sports,1,657.95,256
+f1036c28-d9e8-4248-865f-38df3096e1da,Sandra,ucross@example.org,40,Linchester,Gaming,0,111.64,4
+04eb8fbc-6323-48b0-8cc1-2fe15264d10c,Anthony,carriesharp@example.net,60,Lake Jaredborough,Health,20,792.65,86
+12f5e393-3c82-4035-9e93-a8667e3c08bd,Sheri,amanda12@example.com,45,North Susanland,Sports,11,99.45,89
+174d07d7-a55c-4d60-b86b-024d32440241,Jennifer,sandy07@example.net,22,West Michaelborough,Travel,25,952.48,273
+2b750937-c628-4c42-bd5f-c56fc223e1f7,Richard,travis48@example.net,47,Jamesshire,Gaming,3,967.21,39
+527b749f-ef26-43aa-a07d-102d6d25ad1d,Ashley,markvalencia@example.org,65,New Jennifer,Fashion,1,626.69,314
+aba6274e-ea65-498e-8feb-c301d72834ef,Edward,timothy76@example.com,18,Longbury,Fashion,22,823.12,63
+2cdef56f-d328-442e-be86-079057e17cfb,Joseph,rebecca81@example.com,40,Lake Jacqueline,Fashion,16,946.5,358
+61848f37-1db4-4b4d-bebe-b3055ce2e009,Joseph,kinglisa@example.com,63,South Johnchester,Sports,16,432.36,57
+6363cc93-f61c-4b42-ba7b-d1add35f6773,Lisa,daniel42@example.org,21,Hofurt,Travel,11,616.78,332
+6609600e-ff38-41c9-9992-b6f79c9ad20d,Maria,taylorkimberly@example.com,52,Barneshaven,Fashion,1,703.26,89
+60ec509a-04b5-4cb6-8380-3971e7b519f9,Kathleen,thomasbrock@example.com,22,Lake Bryan,Tech,19,990.27,160
+1715a08e-7714-4139-8828-7353756cf09d,Heidi,iwilliams@example.org,65,West Reneeport,Sports,0,724.68,90
+903cdf7d-ae7c-4ce5-b9c5-a1b0097d6aa4,Jessica,taylor78@example.org,65,Howellmouth,Gaming,22,435.87,323
+aa5602c7-e72c-4ead-951e-96c6fe8ac9c7,Megan,darrylthompson@example.org,32,New Mary,Gaming,30,719.79,45
+a6d0addf-8d94-430d-96d9-fbaf3fce3ba6,Tonya,deborahporter@example.net,34,New Kyle,Travel,0,229.64,210
+825cc9fb-f20d-4731-98b4-f4a2a4b3dd58,Timothy,christopher56@example.com,46,Amychester,Fashion,2,736.46,192
+817c8fbf-25a2-4501-af74-ea03c7fc727d,Aaron,brandon08@example.org,19,South Jason,Travel,28,857.28,216
+0e22a685-1aed-40f7-b95b-6f5a12e627a4,Roy,ablack@example.net,68,Watsonburgh,Gaming,10,678.18,275
+7c53e22e-6069-4bfa-b30c-2423a36c6a37,Cassandra,justinjimenez@example.org,40,Port Charles,Gaming,27,724.49,280
+137078fa-ed90-4217-9f4c-d522e104757f,Lori,jameshaynes@example.org,21,Wagnerfurt,Travel,19,417.47,238
+a96ccfe3-dd77-47d6-8a45-c90acaee6f99,Denise,zmoore@example.com,25,Cynthiaview,Sports,1,736.15,163
+67b92503-b75b-4e08-8b84-df23f1f5b6b7,Robert,graybenjamin@example.com,42,East Josephton,Fashion,23,425.83,297
+4c3f32d2-2c8a-44a0-a7ce-4778a9113c5b,Matthew,antonio56@example.net,46,North Steven,Health,18,522.28,64
+2fc93b01-9d90-452e-8380-46d0ffb919e0,Jennifer,amy05@example.org,48,Joshualand,Fashion,27,979.66,303
+40061253-d7ac-481b-a2c9-54fba4727e19,Jeremy,jacksonlisa@example.org,59,Lake Aprilside,Travel,3,503.42,116
+5891d04b-3f28-481a-9504-58b18cbac22a,Tiffany,igrimes@example.net,27,Jamesland,Health,19,466.66,257
+7f7d46fe-399b-485f-8b3d-f8df89ed352b,Tammy,benjaminthompson@example.com,32,Ortegaland,Gaming,23,47.45,21
+67a45453-1d30-4891-99cc-bd146d8ad229,Jaime,qvillegas@example.org,54,Port Veronicaport,Travel,5,326.73,64
+77339d0b-415a-4e1d-a4a6-362c25f00794,Patricia,bestvictoria@example.org,28,Robinsonchester,Sports,14,341.62,2
+929af4f1-1e08-4a7d-9523-6f9018f1af5f,Michael,tinasmith@example.org,32,New Joseph,Tech,8,757.9,183
+8968c0b7-13ab-4731-a21f-7a21c90d82f8,David,mcmillanlisa@example.com,52,Port Raymondmouth,Health,27,617.17,52
+a5b14dab-14d4-4f1d-b5bf-e0ce31a255f6,Robert,paulnorris@example.org,30,South Emily,Fashion,3,224.57,365
+169d4a68-4740-47b9-a2cd-338d75992c7a,Megan,patricia51@example.org,22,West Christyview,Tech,18,938.3,350
+465b4896-1c97-42b8-92b6-692e5274ff59,Kelly,stoutchristina@example.net,19,Brownland,Health,23,975.06,128
+9186a8c2-e670-4248-b20e-d2e9647959d7,Eric,johnsonbrent@example.org,28,South Sheilamouth,Fashion,29,945.38,69
+f0fa8409-0ed4-4971-a43c-7f348783d62a,Madison,wvalenzuela@example.com,42,South Catherinefurt,Tech,4,906.18,75
+aff7f7ff-0242-4327-9614-df7616023948,Jordan,leslie76@example.net,50,Lake Gregory,Tech,30,431.86,212
+b6b6a6d4-1ec1-4c37-964f-3656e61a6593,David,ehansen@example.org,46,Lake Russell,Health,6,959.44,185
+0759be49-a667-4fea-9338-ce0304bc09a0,Kathleen,brightkendra@example.org,59,Lowefort,Tech,25,236.38,216
+5a39fceb-97fb-4318-8352-7f779a11f787,Jonathan,paulclarke@example.net,70,Martinfurt,Gaming,24,109.81,317
+6a8131e6-d511-40c2-9b6a-f974e51fce3e,Jacob,kathy02@example.org,31,East Georgemouth,Travel,16,960.43,28
+8c76aeb8-4a13-4fe9-b20e-bc0b94f14578,Corey,bwilliams@example.net,66,Lake Deborahberg,Tech,21,872.71,123
+b65da321-9b9c-42ca-86eb-3595be76584b,Cindy,lindacuevas@example.net,38,Terryfort,Tech,3,920.45,24
+882dffd9-61ad-457b-b9c8-b230a3f64d12,Reginald,veronica39@example.net,53,Reyesland,Health,12,598.82,263
+4e4624b2-cf43-4eff-8283-d4bc650d811b,Mary,dwashington@example.org,56,Port Alejandrashire,Gaming,3,129.5,4
+9d414065-622d-4dbe-9288-1d01d592979d,Amy,morrisaaron@example.net,41,Wrightport,Travel,28,96.59,82
+509b8e5c-c830-42e7-ba29-cc9c883e5759,Brian,powellvalerie@example.net,59,West Travismouth,Gaming,10,838.44,34
+f892beef-02a5-4c47-bfb1-81bd07947474,Bruce,lhale@example.org,39,West Christopher,Gaming,0,425.51,256
+183410f5-974f-4f85-ab85-2ee439df192f,Kevin,corteznicole@example.com,39,Allenton,Gaming,1,750.2,244
+e7f186df-f12a-4be3-871b-b6eadac0e1b2,Erik,catherine86@example.org,25,Christopherton,Tech,16,583.34,235
+ebfbba52-77a6-4151-8253-dd48ae91dfa1,Casey,delgadodebra@example.net,35,Laurenmouth,Fashion,17,169.9,183
+12f32b21-162d-461e-b04f-1e854acd7566,Diana,millerbrett@example.net,58,Port Joan,Fashion,12,673.14,179
+9d0de8af-125a-49d4-b082-ce853a192008,Melissa,martin54@example.org,63,North Derrick,Travel,9,133.69,329
+2a7a331b-535c-4282-9e00-7f32da70e0f9,Andrew,jenniferhayes@example.net,60,Angelastad,Travel,13,66.49,128
+b7fe4c48-a9e7-4235-9576-eae07ad66f5d,Eric,daniel37@example.com,24,South Audrey,Gaming,15,851.8,177
+b2509841-3b55-4d82-8ffc-c39d4838e859,Morgan,reedtheodore@example.net,54,Conwayland,Tech,10,924.79,128
+5d4619b9-93d8-42a1-b957-188fc2c4c03a,Andrew,adamwagner@example.org,22,New Steven,Sports,17,357.21,317
+fe8ccac5-ccfd-45aa-b437-53072b21532f,Randall,clewis@example.org,28,West Dannyfurt,Travel,2,557.98,179
+963fe50d-f0dc-4d5e-bade-69ed1c814ecf,Amanda,tyler67@example.org,52,Thomasview,Tech,29,546.02,355
+dfb9a6bc-e94b-44a9-9a8e-a4b342f96fce,Monica,stacy22@example.net,63,North Melvin,Gaming,10,237.08,43
+e3965626-e8ea-4622-b1ff-4fe757b97dfb,Nicole,mooremonique@example.com,19,Ericchester,Health,2,570.39,325
+39bd5a48-8907-4e15-a4de-7e473d22cfe1,Connie,kennedydiane@example.com,29,Cohenside,Fashion,0,604.75,300
+1122ae22-77df-45d5-ab8b-e6265a4fd177,Mark,lori80@example.com,67,South John,Tech,1,227.51,226
+4a9395a4-7799-4aa2-a0f7-6ce03355ea40,Tiffany,hwaller@example.org,38,Kathyburgh,Health,4,928.16,271
+119a15a5-28bf-4fab-b769-6e527b1618d2,Kristen,brightholly@example.com,62,Lake Michael,Sports,27,132.57,295
+f7d07681-d074-4209-9808-d0dcce45f5a4,Anna,kimberlyanderson@example.org,54,Kylestad,Sports,12,485.41,32
+57d303f9-3e3d-44c7-a241-5883994611e2,Caitlin,ashleydavidson@example.org,57,Josephburgh,Tech,12,122.89,5
+50190ad6-7757-40b6-8f77-2959bc387a53,Stacey,daniel49@example.net,40,Johnsonview,Sports,28,568.95,352
+f9bb08e3-23ac-4844-b27b-dbbd04cbcf73,Kelly,simpsonanne@example.org,20,Wilsontown,Gaming,26,75.06,97
+26a5e4ba-7d8c-4295-9fea-822ba6b4f23a,Jocelyn,hollycallahan@example.org,67,Meganmouth,Tech,22,502.51,262
+49fe8242-3f06-4ed0-b62e-a94eef3d6737,Mark,snowchristina@example.net,34,Kingborough,Fashion,29,368.07,27
+3f135678-2643-49c1-b370-2991131ee98f,Amy,whitecharles@example.com,65,South Jackiefort,Sports,3,969.57,199
+1546abb5-cb20-4ba5-9e79-2e65f6471b5f,Adam,cheryl60@example.com,21,Grahammouth,Gaming,7,981.26,274
+b3f200d1-f574-4055-a613-6c96df2708f1,Patricia,lewisnicholas@example.org,39,South Garymouth,Health,4,381.14,336
+4a68eeff-8711-4703-8737-d9f4d4cff36c,Ian,sherrycarter@example.net,20,Lake Kelly,Sports,27,360.47,308
+362cce62-2355-468b-8486-5e5cd71b66fc,Carrie,pmartinez@example.com,23,New Jennifer,Health,24,862.75,25
+40e30c62-770b-4ffc-9152-c231a86759e5,Ryan,kiddmichelle@example.org,26,Carterbury,Gaming,30,942.65,133
+1846d731-3c2e-4db2-bf7f-f952647e9d01,Marissa,priscilla54@example.com,58,Robertland,Tech,26,965.0,266
+4510abba-5404-4d0f-9e17-e7eeb6ab276c,Heather,connerricky@example.net,48,Hughesburgh,Fashion,4,297.53,180
+8fd001df-9521-4466-b1a2-b7a311db48ef,Tammy,evan42@example.org,66,Nicholefort,Travel,1,216.39,126
+cdbb0bb6-00ad-43ea-99bd-16033235dce7,Andrew,diane48@example.net,42,Thomasborough,Health,0,713.32,26
+5bb8a55d-29e2-4b64-a4fb-f6d9d8c01a66,Angel,willie90@example.net,50,Hollandberg,Health,4,685.19,93
+79365546-1128-40bd-831d-2cfb66d55686,Brandy,wilcoxjasmine@example.org,36,New Cody,Health,17,216.92,151
+9d46557e-fd87-4657-8f80-7f415dd08b56,Cynthia,perkinsmatthew@example.net,69,Brandonstad,Health,16,88.7,287
+f69db6e6-1387-4710-b3e3-a4590793c4e2,Mario,jamescurtis@example.com,69,Nelsonland,Gaming,0,689.08,214
+3ebfa884-adb7-450a-bbdb-739789637c19,Robert,christopherross@example.org,69,West Isabellachester,Fashion,29,808.83,36
+de3d4054-2d94-4418-a596-39d5b4fb6c6c,Jacob,ahardin@example.net,59,Gonzalezburgh,Health,30,280.42,36
+8cd68806-fd78-47aa-add0-029132ba3637,Tyler,matthew00@example.com,69,South Victoriastad,Sports,15,432.56,21
+3d501460-19a0-49df-a518-0654a3ae6033,Douglas,pwilliams@example.com,33,North Darryl,Tech,14,129.87,226
+2791bb99-9e78-41ad-8068-31c82fff334e,Thomas,hicksderek@example.com,26,Phillipsview,Travel,27,582.99,0
+2f6911d2-ac4f-458a-8912-671f09ba2bf4,Derek,edward42@example.net,35,Donaldland,Health,5,84.47,193
+01193287-c386-4a3e-9a05-c5cbeb0e8976,Megan,timothymiller@example.com,40,Taraburgh,Fashion,19,215.27,324
+44cf114a-768a-465d-9d06-218e9a2e1e26,Kelli,kathryn48@example.org,28,West Robertland,Gaming,16,739.47,337
+8f5891ba-601d-4c71-a1a5-a3e319466aae,Matthew,keith37@example.net,40,Christopherborough,Sports,15,487.28,68
+12056e54-9179-4439-b54d-f30db2bcc8fc,Jamie,jennifer51@example.com,19,Lake Erinside,Fashion,27,546.12,253
+e8d9cb00-80b4-42be-97b0-0153ec2ac7da,Cory,imalone@example.org,52,North Richardview,Sports,3,145.5,210
+7c61966b-c1a7-4f88-9643-55d97a4b65f7,Richard,ssaunders@example.net,58,North Dennis,Tech,28,107.42,59
+93405dc7-5340-4a3c-93cf-934928fbb8f9,Brooke,dwheeler@example.org,59,Frenchville,Sports,24,938.32,68
+dfe126ec-e6fa-4fdf-baab-a1ddae6fef3e,James,naguirre@example.org,36,East Brittany,Health,27,547.28,59
+8df41589-0e04-4159-bd2e-6a7f06b02ae0,Jessica,ramirezbrianna@example.com,31,South Jasonview,Tech,19,166.44,161
+b8590307-bbea-46a8-920f-3119695604ab,Clifford,jrivera@example.org,29,Lake Erin,Travel,3,675.57,244
+50803498-9dba-47f6-ad6e-5276c41115e6,Kara,ifrost@example.org,65,Owenston,Tech,22,169.96,141
+ec108e3b-0475-4679-ae0e-28dcc3827477,Theresa,jennifervaughn@example.com,62,Lake Dawnborough,Gaming,6,166.81,314
+dda41b5c-afc8-49b5-90f7-a3e78314d68b,Holly,marymeadows@example.net,40,Chelseaburgh,Fashion,5,508.11,56
+9c62ed3f-07df-4bda-ab5a-d460dd328b8e,Tonya,xrios@example.org,25,Port Pedro,Gaming,27,29.1,44
+44bdbcc3-9652-45bb-9da1-e5bac0af5bcc,Kendra,samanthajohnson@example.net,69,West Aaronfurt,Tech,4,315.06,321
+d8651aa2-1aef-4136-bd6f-be5771e9857e,Matthew,gjones@example.com,31,Mitchellmouth,Fashion,24,6.21,80
+d9fe69a3-6bd0-498a-b9a5-92d1f0a252c3,Donna,jonesdebra@example.net,33,East Lisashire,Tech,17,351.18,2
+0113858d-17b2-4d86-93d5-49f3f4298bd9,Holly,mitchellrebecca@example.org,59,Jonesshire,Travel,10,272.1,110
+83132cb8-5d53-4a8f-9f09-01a48afdb1d6,William,luis15@example.org,29,Perezberg,Gaming,27,346.11,173
+f0e9d02b-2a0f-4feb-b8b9-b62500712897,Meghan,snyderteresa@example.net,39,Holmesside,Fashion,4,594.28,122
+7c5cfedd-0ca6-425d-ac9a-5ea5861ef7e2,Mario,braunchristopher@example.net,54,Smithville,Health,14,59.04,277
+b6e1e34d-2752-4853-adce-effe71dacae4,Joshua,lauren63@example.org,58,East Richardborough,Tech,18,796.7,232
+af574b6f-fb0a-4761-ab49-c96e4bb392fd,Michael,lopezanna@example.net,52,West Anthony,Tech,15,16.74,80
+ef83287a-1454-4433-9bf8-6ab66140755f,Eric,victoriamercer@example.com,53,Port Rosefurt,Gaming,29,588.11,9
+0673bdcb-a8df-4daa-891c-68a350ed4e83,Laura,vrobinson@example.com,64,Emilyview,Travel,14,687.24,321
+6feb8fa6-8c90-4905-80f5-8c4748c0cb8e,Daniel,davidmarks@example.org,48,Port Jonathan,Fashion,2,230.13,292
+ad3834bc-9ddc-412f-b53f-8a3e6cab2eec,Donna,destiny47@example.com,28,East Melinda,Tech,17,928.8,28
+e122ec79-c63f-4898-a828-2b0f1859efaf,Erica,robert96@example.org,36,Lauriechester,Health,23,87.59,338
+191a95ce-99bf-41fb-b819-e8debc7c37a4,Karen,barnettbrianna@example.com,59,Karentown,Sports,25,188.69,105
+6a1e3a33-4d45-49c7-9629-185d1f24dfdb,Michael,joneselizabeth@example.net,52,Lake Brandonside,Tech,25,941.19,45
+17cc3a8d-0d6b-4b16-ae93-8b6f2f227e93,Justin,john51@example.com,55,Charlesmouth,Fashion,5,821.28,170
+014d500f-7d87-413f-b50e-0916a4e26c78,Cody,chad54@example.com,54,West Davidmouth,Health,4,296.52,108
+9bae60c8-6283-4871-b0c1-37f576b598fc,Rhonda,debrashea@example.com,37,Port Gabriellestad,Gaming,4,417.48,42
+26a21618-8b35-4fa9-b440-91c89066b726,Jeremy,harrismelissa@example.net,35,New Timothy,Fashion,6,986.8,303
+2523e376-0576-43e6-97a4-1ec21de9294e,Renee,claytonkennedy@example.com,43,New Josephbury,Sports,1,423.39,118
+49c1e401-e36d-49c3-965e-abeddad3c005,Lisa,grobertson@example.net,22,East John,Fashion,18,429.19,244
+f4fabd96-3427-46d0-b163-b005a659c6b8,Gerald,emma48@example.com,70,New Andremouth,Tech,22,612.53,48
+174b7abe-3ceb-4d60-b709-c5ccad128c2a,Stephanie,emeza@example.org,27,Kennethburgh,Gaming,5,107.2,225
+2f301c17-15af-45cf-9203-74e6dfa0d72a,Cathy,phowe@example.org,28,North Amberport,Gaming,8,735.73,359
+dbaa24af-74d3-45bc-91f4-07075a0c50a3,Kathleen,bwilliams@example.com,26,Maxwellview,Travel,27,898.89,293
+21c5a949-40ee-4c64-b31f-18dd6ee3730a,Samantha,imcclure@example.com,18,Griffinmouth,Fashion,28,78.38,319
+0d4f8d9e-94f8-4957-92c0-725421cc60fd,Cynthia,heathercarroll@example.org,24,Fowlerhaven,Health,8,412.53,349
+b5e9d3da-ddd7-44e3-ba7d-7eb52d61aec1,Debbie,garciadaniel@example.com,32,West Allisonchester,Tech,28,60.39,126
+77df7517-6408-4e13-9bb2-32f78a8b0955,Mark,bkeith@example.com,41,Colemanberg,Health,29,544.45,31
+184aab6f-befd-4892-908b-b9f6312f598c,Linda,gturner@example.net,48,New Anthonyview,Travel,17,478.04,351
+57d33a6a-0bc4-43c1-a93b-be15c0090f35,Emily,georgebell@example.net,45,South Mark,Health,22,322.65,161
+e74f7ce7-ce73-4190-afe4-17344b1bbd52,Rebecca,johnsonbrian@example.net,46,South Fredhaven,Health,28,638.19,26
+715a00b8-5de7-4a1f-944f-64d25702ab9a,Christina,ferrelljared@example.com,45,Port Donnaland,Tech,5,438.28,168
+01786b59-a25c-4fc0-8272-8b06852a842c,Susan,monroechristine@example.net,20,Rachelmouth,Health,17,170.38,174
+d49e9437-e132-49a7-a57e-9e1ebac18622,Patrick,baldwinmary@example.org,21,West Lisaville,Health,4,70.24,328
+32920483-b276-4372-9981-93e102ef219d,Brian,robert62@example.com,38,North Susanview,Tech,11,929.44,314
+0e5646e1-516d-41ba-a92f-3cbba3527759,Russell,lori76@example.com,51,Nixonmouth,Tech,12,440.06,319
+33795f76-3beb-4d48-80fb-442e44ed132d,Jonathan,monica23@example.net,70,New Melissabury,Health,10,427.62,252
+22b05cbe-4ca9-4e42-a792-5ed83631e21d,Ronnie,fsparks@example.org,46,East Walterfort,Health,23,73.57,3
+77ba81bf-4f4c-4eba-9795-fefe37e5e6ae,James,kyletorres@example.net,19,Andreatown,Tech,10,103.64,29
+c4868dfc-5b0b-4a91-b17a-2c735507774f,Krista,willisstephanie@example.com,39,West Douglas,Health,26,439.22,53
+fa7f0da7-5f5d-42d3-b4fa-74555a84863b,Victoria,joseph46@example.com,27,Brittanyberg,Tech,22,450.67,118
+4739593a-c2d5-42db-9407-48c40098d9bc,Michael,timothyvalentine@example.org,61,Andreamouth,Sports,15,877.33,296
+8288adc1-ac9f-4091-8dde-06b3aabec3dd,Diamond,karenharrison@example.org,33,East Donville,Sports,1,572.78,125
+be4ede72-7ca2-4ba4-a1c4-adaa812ee166,Christopher,fitzpatricksamantha@example.com,36,Banksmouth,Health,2,945.97,231
+9bc3a3eb-4ae5-406e-be8e-afddda2d2db8,Shawn,christopher08@example.net,59,Michaelmouth,Health,0,311.15,307
+5a25ac8b-794f-420a-8782-604da9c9eb9c,Jasmine,karen29@example.com,29,New Julieborough,Sports,30,59.24,253
+0d15a0db-2fb1-4fa1-bddc-08cb69df445b,Andrea,edward61@example.org,59,South Debrashire,Tech,13,267.86,21
+55f9984e-401e-479d-b7b0-b55eaa144b32,George,carolcobb@example.org,66,New Joshuashire,Sports,3,361.3,277
+d7da432b-3593-4e33-ab91-ea58da9c29d5,Melinda,kristinburke@example.com,59,Taylortown,Fashion,16,695.46,193
+9965a85b-6a50-4212-9be9-d3aa9bc11e63,David,harrisbrenda@example.com,23,Port Darrellborough,Travel,14,721.58,175
+37183eba-76ca-4eb0-aafe-36507ad2422c,Robert,james05@example.org,37,Juliechester,Gaming,9,270.46,195
+812e902c-b281-4b64-b691-981ce4806a1b,Amanda,vanessahernandez@example.net,53,Port Natalieberg,Fashion,29,779.54,222
+1328fc74-010f-4b9b-9f58-bd1e657a5b9b,Kristina,dgonzales@example.net,42,Lake Nicholas,Gaming,14,79.33,99
+e2f9669c-493c-43a3-a680-10874ddaa204,Gary,sandramurphy@example.com,56,Lake Williamland,Travel,2,992.83,355
+7e849145-e36d-4b49-ab44-8226f5793d8c,Allison,matthewfarley@example.net,62,Thompsonberg,Fashion,2,902.63,325
+e5c6e860-79e0-4785-9b9a-6fac3ace3f6d,Cheryl,james53@example.net,70,Josephshire,Health,8,449.05,25
+a035eec8-6d7e-4f93-a1ac-384d98dc058a,Valerie,smithtrevor@example.com,33,North Anthony,Gaming,19,965.04,334
+bb58c7f6-cfe3-4e7c-b073-976eaf91290b,Jessica,rhonda78@example.org,43,West Judy,Tech,27,355.68,344
+7a3dc3a5-3f82-4890-95f9-619a75cde6e4,Robert,ncallahan@example.com,61,South Matthew,Fashion,11,720.91,248
+2c70311d-2e4d-44cb-b5da-c8fa46efe092,Aaron,greenjerry@example.org,49,West Julie,Gaming,6,900.39,318
+46e27bd2-da8d-4f2a-ab84-a0dc113c9f68,Elizabeth,zwilliams@example.com,49,Brownview,Travel,30,656.19,88
+b90e543f-ff54-447e-adb2-f63934032712,Brittany,bthompson@example.com,54,Lake Michael,Sports,14,831.77,59
+b2a844de-0f8c-4841-86ca-593760f5f6cf,Justin,ortizwhitney@example.com,47,New Sharon,Health,24,334.11,203
+3b810925-eadc-46b9-b327-f81a965d16aa,Laurie,peterpeterson@example.com,58,Johnburgh,Sports,23,989.2,328
+65321c38-3e79-41ec-9f1b-b3e9cadf01ef,Franklin,jacksonlisa@example.com,32,Holmesland,Health,4,972.66,22
+771ecdc6-cfef-48a1-828f-05266c748fb1,Megan,benjamin82@example.com,51,West Deborah,Gaming,19,680.85,146
+9f60d4e1-3c19-4612-817d-ec71c6d1477a,Jason,nicholas33@example.com,36,North Stephaniebury,Health,4,529.09,126
+22455a6c-f0a1-4801-ac79-aabdf7982604,Teresa,aguirrediane@example.net,63,New Amanda,Tech,18,91.88,311
+1ffb6151-aab7-4a2f-bb1d-24c5e43b204e,Mallory,yreyes@example.org,41,Karentown,Fashion,26,30.7,183
+e371e206-87f8-4a45-850f-24686806a557,Nancy,chentammy@example.net,52,West Rachelland,Travel,7,937.71,267
+b7518baf-20e0-47c5-b4dd-d3801e9809e8,Todd,phillipsjill@example.net,70,Ibarraside,Tech,3,790.18,58
+30db490c-dcca-4c8d-91c0-d04a46237103,Joshua,jamiewheeler@example.com,29,Hallhaven,Travel,13,834.75,349
+873f1a8e-ea3d-47d4-9fd6-3ec408db07f0,Stanley,robinsonbrendan@example.org,69,South Matthewstad,Travel,20,879.09,345
+b6047fda-c959-4179-af55-aafcb4f4846e,Leonard,kleinmargaret@example.com,35,Butlertown,Sports,27,279.08,281
